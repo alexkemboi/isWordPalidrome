@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\isPalidrome\bin\Debug\net8.0\isPalidrome.exe
+C:\Users\akemboi\source\repos\isPalidrome\bin\Debug\net8.0\isPalidrome.deps.json
+C:\Users\akemboi\source\repos\isPalidrome\bin\Debug\net8.0\isPalidrome.runtimeconfig.json
+C:\Users\akemboi\source\repos\isPalidrome\bin\Debug\net8.0\isPalidrome.dll
+C:\Users\akemboi\source\repos\isPalidrome\bin\Debug\net8.0\isPalidrome.pdb
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.dll
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\refint\isPalidrome.dll
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.pdb
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\isPalidrome.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\isPalidrome\obj\Debug\net8.0\ref\isPalidrome.dll
